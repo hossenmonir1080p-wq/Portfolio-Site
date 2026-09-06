@@ -1,7 +1,6 @@
-MD.MonirHossen/README.md
+md.monirhossen/README.md
 Hi there, I'm Monir Hossenn 👋
-I am a Full Stack Web Application Developer and Specializing in end-to-end web architecture, microservices, and modern UI performance.
-I build scalable, responsive end-to-end web applications with a focus on clean architecture, performance, and user experience.
+I am a Full Stack Web Application Developer and Specializing in end-to-end web architecture, microservices, and modern UI performance.I build scalable, responsive end-to-end web applications with a focus on clean architecture, performance, and user experience.
 
 - 🔭 I’m currently working on: **[Name of current project / microservices / SaaS app]**
 - 🌱 I’m currently learning: **[e.g., Next.js 15, WebSockets, Docker, Redis]**
